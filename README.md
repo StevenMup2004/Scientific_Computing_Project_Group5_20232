@@ -1,6 +1,5 @@
 ## Introduction
-
-This project provides implementations for solving the heat equation for a 2D plate using various iterative methods. The methods included are:
+This is project of IT4110E course, which implementations for solving the heat equation for a 2D plate using various iterative methods.The methods included are:
 
 - Jacobi Iterative Method
 - Gauss-Seidel Iterative Method
