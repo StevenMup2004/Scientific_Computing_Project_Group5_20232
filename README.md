@@ -17,6 +17,7 @@ Ensure you have MATLAB installed on your system.
 - This code solves the heat equation for a 2D plate using the Jacobi and Gauss-Seidel methods, as well as the Successive Over-Relaxation (SOR) method with 5-point and 9-point method. It includes plotting the results about temperature variation on plate, and reporting the computation time , the number of iterations and the error changes for each method.
 
 - Steps to run:
+  
       + Open Code_Group5.m in MATLAB.
       + Run the script to compute the temperature distribution on the plate.
 
